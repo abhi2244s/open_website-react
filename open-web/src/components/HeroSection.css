@@ -1,0 +1,7 @@
+.heading{
+    transition: opacity .8s ,
+    cubic-bezier(.39,.575,.565,1),
+    transform .8s
+    cubic-bezier(.39,.575,.565,1);
+    
+}
